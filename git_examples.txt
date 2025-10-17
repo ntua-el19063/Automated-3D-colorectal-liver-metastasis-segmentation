@@ -1,4 +1,0 @@
-https://github.com/vaishak236/Lung-Tumor-Detection-Monai/blob/main/hw5_model/Lung_Cancer_Segmentation.ipynb
-https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch
-https://github.com/ASWIN-01s/Monai-Brain-Tumor-Segmentation/blob/main/monai_brain_tumor_segmentation.ipynb
-https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/brats_segmentation_3d.ipynb
