@@ -9,7 +9,7 @@ This project focuses on the **automatic segmentation of the liver and colorectal
 
 The pipeline was built using MONAI and PyTorch, with careful attention to **preprocessing**, **data augmentation**, and **dataset curation** to handle class imbalance, depth variation, and tumor heterogeneity.
 
-## 🚀 Key Results
+## Key Results
 | Task                    | Model         | Dice Score | Notes                                           |
 |--------------------------|---------------|------------|-------------------------------------------------|
 | Liver segmentation       | SegResNet     | **0.968**  | State-of-the-art performance                    |
