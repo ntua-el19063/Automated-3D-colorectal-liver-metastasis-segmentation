@@ -19,3 +19,6 @@ The pipeline was built using MONAI and PyTorch, with careful attention to **prep
 
 - Local GPU: NVIDIA GeForce GTX 1650 Ti (4GB)  
 - Remote GPU: NVIDIA GeForce RTX 4080 (16GB)
+
+> **Full Thesis** — Access can pe requested for the complete thesis project pdf file.
+- 
