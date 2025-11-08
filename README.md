@@ -1,6 +1,8 @@
 # Automated 3D Segmentation of Liver and Colorectal Liver Metastases (CRLM)
 
 > **Thesis Project** — Development of a reliable deep learning pipeline for liver and tumor segmentation from 3D CT scans using the MONAI framework.
+> **Complete Version** — Access can be requested for the final thesis project file.
+
 
 ## Project Overview
 This project focuses on the **automatic segmentation of the liver and colorectal liver metastases (CRLM)** from CT scans through a **two-stage deep learning pipeline**:
@@ -19,6 +21,3 @@ The pipeline was built using MONAI and PyTorch, with careful attention to **prep
 
 - Local GPU: NVIDIA GeForce GTX 1650 Ti (4GB)  
 - Remote GPU: NVIDIA GeForce RTX 4080 (16GB)
-
-> **Full Thesis** — Access can pe requested for the complete thesis project pdf file.
-- 
