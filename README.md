@@ -1,6 +1,7 @@
 # Automated 3D Segmentation of Liver and Colorectal Liver Metastases (CRLM)
 
 > **Thesis Project** — Development of a reliable deep learning pipeline for liver and tumor segmentation from 3D CT scans using the MONAI framework.
+
 > **Complete Version** — Access can be requested for the final thesis project file.
 
 
